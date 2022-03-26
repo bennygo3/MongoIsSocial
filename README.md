@@ -10,6 +10,7 @@ Screenshot of insomnia file structure with GETS, POSTS, PUTS and DELETES
 
 ![UsersSocialAPI](https://user-images.githubusercontent.com/95048609/160221756-4f3af448-589b-4bf9-99d1-5ec9ab0ed28e.jpeg)
 
+
 Video of app showing the users and friends:
 
 ### [Users and friends](https://drive.google.com/file/d/1XRvPB2RSNVIcR46XVEL7vV_bJRymXXkr/view)
