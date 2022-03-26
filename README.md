@@ -2,8 +2,7 @@
 An API for a social networking app using MongoDB
 
 
-
-##Media
+## Media
 
 Video of app showing the users and friends:
 
