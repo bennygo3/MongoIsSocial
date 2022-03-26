@@ -6,13 +6,17 @@ This project is a backend API for a social networking app using MongoDB. The app
 
 ## Media
 
+Screenshot of insomnia file structure with GETS, POSTS, PUTS and DELETES 
+
+![UsersSocialAPI](https://user-images.githubusercontent.com/95048609/160221756-4f3af448-589b-4bf9-99d1-5ec9ab0ed28e.jpeg)
+
 Video of app showing the users and friends:
 
-https://drive.google.com/file/d/1XRvPB2RSNVIcR46XVEL7vV_bJRymXXkr/view
+### [Users and friends](https://drive.google.com/file/d/1XRvPB2RSNVIcR46XVEL7vV_bJRymXXkr/view)
 
 Video of the app showing the thoughts and reactions:
 
-https://drive.google.com/file/d/1eKjGxi_sC_EhEdm47hL4nE1LyIl_tomv/view
+### [Thoughts and reactions](https://drive.google.com/file/d/1eKjGxi_sC_EhEdm47hL4nE1LyIl_tomv/view)
 
 ## Technology/Packages
 
