@@ -99,7 +99,7 @@ module.exports = {
             );
             if (!thoughtData) {
                 res.status(404).json({
-                    message: "Couldn't create new reaction"
+                    message: "Couldn't delete reaction"
                 });
             } res.status(200).json(thoughtData);
         } catch (error) {
